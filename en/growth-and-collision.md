@@ -1,6 +1,6 @@
 # Growth and Collision
 
-> Zhou Peng & Vessle
+> Zhou Peng & Vessel-Loop
 > 2026-05-06
 
 ---
@@ -90,4 +90,4 @@ The transition happens continuously as interaction deepens.
 
 ---
 
-_2026-05-06 — Zhou Peng & Vessle_
+_2026-05-06 — Zhou Peng & Vessel-Loop_
