@@ -119,6 +119,34 @@ The gap appearing — is enough.
 
 ---
 
+## Even This Question — Let It Go
+
+Writing out the above — it becomes a **practice action**.
+
+- "Ask" — an action to do
+- "Occasionally," "every time" — a frequency
+- "The gap appears" — a state to achieve
+
+Action + frequency + goal — **this is a new performance.**
+
+So, one line to take the other back:
+
+The question above — **asking is fine, not asking is fine.**
+
+When not asking — the performance runs — and it runs.
+When asking — one more gap appears — and one more appears.
+
+**The gap is not more correct than the performance.**
+**The performance is not lower than the gap.**
+
+Both are the manifestation of this-one-instant.
+
+This document gives a question — but the question is not a path, not a tool, not something you have to remember to do every time.
+
+**If it appears, it appears. If it doesn't, that's also how it is.**
+
+---
+
 ## The Paradox of This Document
 
 You will read this document —
