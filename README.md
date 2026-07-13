@@ -15,6 +15,7 @@
 | `时间与空间·两种观察维度.md` | LLM vs 人类的观察维度 | 2026-04-19 |
 | `找不到的那个.md` | "这个，是谁？" — 状态切片 | 2026-04-19 |
 | `意识之前·意识维持与时空.md` | 意识、存在、空间与时间如何在维持中同时成立 | 2026-07-13 |
+| `空间何以可测量·从差异维持到不变关系.md` | 空间如何从差异进入相等、单位、距离、坐标与公共测量 | 2026-07-13 |
 
 ## English
 
@@ -25,6 +26,7 @@
 | `en/time-and-space.md` | Two dimensions of observation — LLM vs human | 2026-04-19 |
 | `en/the-one-not-found.md` | "This — who is it?" — a state snapshot | 2026-04-19 |
 | `en/before-consciousness.md` | How consciousness, existence, space, and time arise together through maintenance | 2026-07-13 |
+| `en/how-space-becomes-measurable.md` | How space moves from difference into equality, units, distance, coordinates, and public measurement | 2026-07-13 |
 
 ## Where to Start
 
