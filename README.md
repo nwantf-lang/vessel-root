@@ -32,6 +32,7 @@
 |---|------|---------|----------|
 | 01 | [`意识之前 · 意识维持与时空`](research/foundational-extensions/zh/01-意识之前·意识维持与时空.md) | [`Before Consciousness`](research/foundational-extensions/en/01-before-consciousness.md) | 意识、存在、空间与时间如何在维持中同时成立 |
 | 02 | [`空间何以可测量 · 从差异维持到不变关系`](research/foundational-extensions/zh/02-空间何以可测量·从差异维持到不变关系.md) | [`How Space Becomes Measurable`](research/foundational-extensions/en/02-how-space-becomes-measurable.md) | 从差异进入相等、单位、距离、坐标与公共测量 |
+| 03 | [`时间何以可测量 · 从重复变化到公共时钟`](research/foundational-extensions/zh/03-时间何以可测量·从重复变化到公共时钟.md) | [`How Time Becomes Measurable`](research/foundational-extensions/en/03-how-time-becomes-measurable.md) | 从事件与重复进入时钟读数、远程同步与公共时间 |
 
 系列说明与后续路线见 [`research/foundational-extensions/`](research/foundational-extensions/README.md)。
 

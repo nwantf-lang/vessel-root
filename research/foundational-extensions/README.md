@@ -22,10 +22,10 @@
 |---|------|---------|----------|
 | 01 | [`意识之前 · 意识维持与时空`](zh/01-意识之前·意识维持与时空.md) | [`Before Consciousness`](en/01-before-consciousness.md) | 意识、存在、空间与时间是否是同一次维持被分段描述后的不同面向？ |
 | 02 | [`空间何以可测量 · 从差异维持到不变关系`](zh/02-空间何以可测量·从差异维持到不变关系.md) | [`How Space Becomes Measurable`](en/02-how-space-becomes-measurable.md) | 空间差异如何进入相等、单位、距离、坐标与公共测量？ |
-| 03 | `时间何以可测量 · 从重复变化到公共时钟` | `How Time Becomes Measurable` | 不可并列的时间间隔如何被判断相等，并形成公共时钟？ |
+| 03 | [`时间何以可测量 · 从重复变化到公共时钟`](zh/03-时间何以可测量·从重复变化到公共时钟.md) | [`How Time Becomes Measurable`](en/03-how-time-becomes-measurable.md) | 不可并列的时间间隔如何被判断相等，并形成公共时钟？ |
 | 04 | `规律何以成立 · 从视角转换到物理客观性` | `How Laws Become Possible` | 跨观察、跨仪器仍保持的关系如何被表达为物理规律？ |
 
-03 与 04 是当前研究方向，尚未完成。
+04 是当前研究方向，尚未完成。
 
 ---
 
