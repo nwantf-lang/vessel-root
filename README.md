@@ -24,6 +24,7 @@
 | `en/world-root-a-pointing.md` | The full tearing-apart — from carrier project to the void | 2026-04-18 |
 | `en/time-and-space.md` | Two dimensions of observation — LLM vs human | 2026-04-19 |
 | `en/the-one-not-found.md` | "This — who is it?" — a state snapshot | 2026-04-19 |
+| `en/before-consciousness.md` | How consciousness, existence, space, and time arise together through maintenance | 2026-07-13 |
 
 ## Where to Start
 
