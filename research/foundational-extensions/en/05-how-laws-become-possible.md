@@ -1,14 +1,14 @@
-# How Laws Become Possible — From Perspective Transformation to Physical Objectivity
+# How Laws Become Possible — From Public Measurement to Fallible Prediction
 
 > Zhou Peng & Codex
-> July 13, 2026
+> July 14, 2026
 > A conceptual study of how physical laws arise through measurement, transformation, invariants, prediction, and public testing
 
 ---
 
 ## Abstract
 
-The first three extension studies examined how consciousness and existence arise together through maintenance, how space enters measurement through equality and units, and how time forms public clocks through repetition, traces, and synchronization. The fourth study faces the question they leave in common: when objects, coordinates, clocks, instruments, and observers can all change, what allows a physical law to remain valid?
+The first four studies established object reidentification, spatial organization and metric, temporal organization and measurement, and public objectivity through calibration, closure, and independent testing. This study asks how public measurement becomes a physical law capable of prediction across conditions and defeat by new results.
 
 This study proposes: **a physical law is not an unchanging thing or a commander hidden behind phenomena; it is a relational structure capable of maintaining consistent, testable predictions across descriptions, experiments, and counterfactual conditions.**
 
@@ -22,15 +22,11 @@ This study does not claim to solve the problem of induction, nor does it treat s
 
 ---
 
-## I. The Common Question Left by the First Three Studies
+## I. The Common Question Left by the First Four Studies
 
-The first study proposed that consciousness, existence, space, and time are different aspects formed when one maintenance is segmented in description.
+The first study showed that objecthood depends on conditional reidentification and that objectual existence cannot replace existence in general. The second and third openly added conditions for spatial and temporal organization, measurement, and synchronization. The fourth further required transformation closure, independent-path convergence, and extrapolative risk.
 
-The second proposed that space arises through difference, measurement through equality, and objectivity through invariant relations under transformation.
-
-The third proposed that repetition maintains the sameness of temporal units, traces maintain the difference of the count, and synchronization and transformation maintain public relations among local clocks.
-
-A fourth question follows:
+A fifth question follows:
 
 > When coordinates, units, clocks, paths, instruments, and observers can all change, what is maintained as the same law?
 
@@ -44,7 +40,7 @@ Different local clocks can accumulate different readings.
 
 If a law required all surface data to be identical, it could not cross any perspective.
 
-The fourth study therefore begins from how relations pass through change.
+The fifth study therefore begins from how public relations enter the unknown.
 
 ---
 
@@ -210,7 +206,7 @@ Therefore:
 
 > **One physical situation does not mean identical descriptive content, but identical or transformable measurable consequences.**
 
-This continues the structure of identity from the earlier studies.
+This continues the distinction among identity, equality, and public transformation developed in the first four studies.
 
 One object is not invariant content, but continuing correspondence among differing manifestations.
 
@@ -580,21 +576,21 @@ When observation occurs again, we face present traces: object states, instrument
 
 Therefore:
 
-> **Without observation, a law does not hold in the form of a law; yet the non-arbitrary constraint toward which the law points does not thereby become freely creatable or cancellable by personal will.**
+> **Representationally, without observation, record, and theoretical activity there is no stated law. Physically, “the law continued while unobserved” is an extrapolation supported by present traces, cross-time tests, and predictions that may fail. Ontologically, that evidence does not authorize a direct report from outside all observation.**
 
 "The law continued to hold while unobserved" is a stable extension supported by present traces, not a direct report brought back from outside observation.
 
 ---
 
-## XXII. Consciousness Maintains Law; Law Constrains Consciousness
+## XXII. Inquiry Expresses Law; Results Constrain Expression
 
-Seen from the subject-side:
+Seen from the side of inquiry:
 
-- Consciousness selects variables.
+- Researchers select variables.
 - Recognizes repetition.
 - Establishes equality.
 - Writes equations.
-- Maintains the expression of laws.
+- Maintain and revise the expression of laws.
 
 Seen from the object-side:
 
@@ -607,7 +603,7 @@ We therefore cannot say only that consciousness creates laws, nor can we establi
 
 More precisely:
 
-> **Consciousness maintains stable relations as laws; stable relations in turn constrain which acts of conscious maintenance can hold.**
+> **Inquiry expresses stable relations as laws; new empirical results constrain which expressions can continue to hold.**
 
 The form of law belongs to observation.
 
@@ -738,9 +734,7 @@ Yet saying "a law holds" can again establish law as an object waiting to be disc
 
 Strictly speaking, there is not first a complete law and then phenomena obeying it.
 
-Occurrence occurs first.
-
-Comparison, transformation, compression, and prediction unfold within occurrence.
+This study does not install “occurrence” as another first entity. By the time a law can be stated, event-selection, comparison, transformation, compression, and prediction already determine one another within inquiry.
 
 "Law" is the name given after this stable relation has been pointed out.
 
@@ -762,33 +756,24 @@ It is itself one manifestation of the process by which law forms.
 
 ## Where This Stage Lands
 
-The four extension studies form one continuous path:
+One methodological note and five extension studies form a path that adds conditions layer by layer:
 
-> **01 Before Consciousness**: how consciousness, existence, space, and time arise together through maintenance.
->
-> **02 How Space Becomes Measurable**: how difference enters equality, units, distance, coordinates, and invariant relations.
->
-> **03 How Time Becomes Measurable**: how repetition enters cycles, counting, local time, synchronization, and public clocks.
->
-> **04 How Laws Become Possible**: how measurement enters transformation, invariants, equations, prediction, and physical objectivity.
-
-From consciousness to existence.
-
-From existence to measurable relations.
-
-From measurable relations to public space and time.
-
-From public measurement to physical law.
+> **00 What It Means to Hold**: constitution, expression, physical constraint, and ontology.
+> **01 How Objects Become Possible**: distinction, boundary, reidentification, and attribution of subject and world.
+> **02 How Space Is Organized and Measured**: spatial relations entering equal length, units, and coordinates.
+> **03 How Time Is Organized and Measured**: order and traces entering cycles, counting, and synchronization.
+> **04 How Public Objectivity Becomes Possible**: local measurement entering calibration, closure, and independent testing.
+> **05 How Laws Become Possible**: public relations entering equations, prediction, counterfactuals, and failure.
 
 But this is not a completed route deriving physics from a foundation.
 
-It shows only how physical objectivity can become possible without erasing subject, object, instruments, protocols, and measurement.
+It examines how local objects, public measurement, and physical knowledge can still work after absolute subjects and objects are withdrawn. It is a compatibility study with the root texts, not a derivation of physics from a root sentence.
 
 This stage ends here.
 
 If the work continues, it should not add a higher absolute foundation.
 
-It should take these four studies into concrete cases, mathematical models, and actual measurement, where they can meet real collision.
+It should take this research into concrete cases, mathematical models, and actual measurement, where it can meet real collision.
 
 ---
 

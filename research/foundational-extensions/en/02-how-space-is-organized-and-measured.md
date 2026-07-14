@@ -1,30 +1,30 @@
-# How Space Becomes Measurable — From Maintained Difference to Invariant Relations
+# How Space Is Organized and Measured — From Spatial Relations to Metric Structure
 
 > Zhou Peng & Codex
-> July 13, 2026
-> A conceptual study of how space moves from difference into equality, units, distance, coordinates, and public measurement
+> July 14, 2026
+> A conceptual study of how differences form spatial organization and then enter equality, units, distance, and coordinates
 
 ---
 
 ## Abstract
 
-*Before Consciousness* proposed that space is not an empty box that contains objects in advance, but the relation formed when multiple differences are simultaneously maintained.
+The preceding study established only that objects require distinction, boundaries, and reidentification. Arbitrary difference does not automatically form space: colors, pitches, and concepts differ as well. Spatial organization additionally requires juxtaposition, adjacency, separation, containment, direction, connectedness, locality, and reachability.
 
-Difference, however, can only establish "here and there" and "this and that." It cannot directly tell us how far apart two points are. Space arising does not mean that space is already measurable. To move from a space of differences into a metric space, a new structure is required: different spatial relations must be judged equal and made substitutable under specified transformations.
+Spatial organization is not yet measurement. Moving from topological and directional relations to metric structure adds comparison procedures, allowed transformations, stable carriers, criteria of equal length, units, and calibration. A distance becomes numerical only when intervals can be judged equal and substituted under specified operations.
 
-This study proposes: **space arises through difference, measurement through equality, and objectivity through relations that remain invariant under transformation.**
+This study proposes: **when differences are organized by spatial relations, experience unfolds spatially; when spatial relations acquire constrained substitutability under allowed transformations, space enters metric expression.**
 
 Measurement does not read numbers already written inside space. It selects stable boundaries, repeatedly covers a spatial difference with a unit maintained as equal, and records the number of repetitions. A unit is not one eternally unchanging object, but a class of relations substitutable under specified operations. A coordinate is not a label carried by the object itself, but a numerical expression of the object's relation to a public reference structure.
 
-Multiple people do not need identical experiences in order to form a shared space. So long as different perspectives can be transformed into one another by stable rules, they can jointly point toward an objective relational structure. Physical objectivity therefore does not first mean eliminating observers. It means that among changing observational positions, instruments, and forms of expression, repeatable transformations and invariant relations can be found.
+Multiple people do not need identical experiences to form a shared space. But transformability and internal coherence alone do not constitute physical objectivity. Transformations must also converge around closed paths and remain exposed to independent measurement and extrapolative failure. The full conditions of public objectivity belong to Study 04.
 
 This study does not derive the dimensions, geometry, distance formula, or concrete laws of physical space from these structures. It investigates the conditions before such quantitative theories can begin: how difference becomes comparable, equality forms a unit, units form distance, distance enters coordinates, and different coordinates form public measurement.
 
 ---
 
-## I. Beginning from a Space of Differences
+## I. From Difference to Spatial Organization
 
-Space first appears as difference.
+Space begins with difference but is not exhausted by it.
 
 "This" is not "that."
 
@@ -32,13 +32,18 @@ Space first appears as difference.
 
 "Inside" is not "outside."
 
-Only when these distinctions are simultaneously maintained can multiple objects, positions, and boundaries appear side by side.
+Spatial organization appears only when distinctions enter added relations:
 
-Thus *Before Consciousness* compressed space into one sentence:
+- juxtaposition, without using temporal simultaneity as a definition;
+- adjacency and separation;
+- inside, outside, and containment;
+- direction from one position toward another;
+- connectedness and reachability along paths;
+- locality, by which relations are first specified in neighborhoods.
 
-> **Space is the relation formed when differences are simultaneously maintained.**
+Therefore:
 
-But this sentence explains only how space can unfold into multiple positions. It does not explain how relations among positions can be assigned numbers.
+> **When differences are organized through juxtaposition, adjacency, boundary, direction, and reachability, experience unfolds in spatial form.**
 
 Knowing that A differs from B is not knowing how far A is from B.
 
@@ -46,17 +51,15 @@ Knowing that a cup is on a table is not knowing how many centimeters it is from 
 
 Knowing that two people stand at different positions is not knowing their coordinates.
 
-Difference makes space arise.
-
-Measurement has not yet arisen.
+Spatial organization now holds. Measurement does not yet hold.
 
 ---
 
-## II. A Space of Differences and a Metric Space
+## II. Spatial Organization and Metric Space
 
 Two levels must be distinguished.
 
-The first is a space of differences:
+The first is spatial organization:
 
 - Objects differ from objects.
 - There is inside and outside.
@@ -71,7 +74,7 @@ The second is a metric space:
 - Intervals can be expressed numerically.
 - Different measurement results can be transformed into one another.
 
-Moving from the first level into the second requires not more objects, but **comparison among relations**.
+Moving from the first level into the second requires not more objects, but **comparison among relations and conditions that preserve comparison**: what may be transported, which deformations require correction, and which operations may count as length-preserving.
 
 Space contains not only the three positions A, B, and C.
 
@@ -146,6 +149,10 @@ Therefore:
 ---
 
 ## V. How Equality Is Operationally Produced
+
+Transport and coincidence are not presuppositionless beginnings. They assume a sufficiently stable carrier, detectable or correctable deformation, transferable comparisons among locations, and a class of transformations provisionally treated as preserving length. In curved spaces or complex physical conditions, these assumptions may hold only locally.
+
+This section therefore does not derive equal length from pure difference. Given explicit rules for allowed transformation, stable transport, and comparison, it explains how equal length can be operationally established.
 
 Suppose there are two intervals: A–B and C–D.
 
@@ -424,7 +431,7 @@ Coordinate transformations in turn test relations among reference systems.
 
 No single element independently grounds all objectivity.
 
-**Objectivity is the entire relational network remaining coherent through repeated collision.**
+**A measurement network must not only remain internally coherent; it must remain non-arbitrarily constrained by independent tests across instruments, paths, and new conditions.**
 
 ---
 
@@ -485,7 +492,7 @@ Which units, geometries, and transformation laws the actual world uses cannot be
 
 This study can be compressed into:
 
-> **Difference maintained — space.**
+> **Differences enter juxtaposition, adjacency, boundary, direction, and reachability — spatial organization.**
 >
 > **Relations made comparable — equality.**
 >
@@ -499,7 +506,7 @@ This study can be compressed into:
 >
 > **Different coordinates stably transformed — shared space.**
 >
-> **Relations preserved or changing by rule under transformation — physical objectivity.**
+> **Relations preserved or changing by rule under transformation — a candidate public structure.**
 
 This is not a one-way process deriving number from a substance called space.
 
@@ -509,11 +516,11 @@ The whole structure stabilizes through repeated comparison.
 
 ---
 
-## XVII. How Space Becomes Measurable
+## XVII. How Space Is Organized and Measured
 
 Now return to the question in the title.
 
-Why can space be measured?
+How is space organized, and why can it be measured?
 
 Not because space naturally contains numbers.
 
@@ -521,7 +528,7 @@ Not because an absolutely unchanging ruler stands outside all relations.
 
 Nor because all observers see exactly the same space.
 
-Space can be measured because:
+Space can be experienced as a structure because differences enter relations of juxtaposition, adjacency, boundary, direction, and reachability. It can be measured because:
 
 > **Spatial differences can be organized into relations that are comparable, substitutable, repeatable, composable, recordable, and transformable across perspectives.**
 
@@ -529,7 +536,7 @@ Yet saying "space can be measured" can again make measurability appear to be an 
 
 Strictly speaking, space does not perform measurement, and numbers are not hidden in space waiting to be read.
 
-Only when objects, boundaries, units, instruments, observers, records, and transformations jointly form a measurement structure do spatial differences appear as distances and coordinates.
+Only when objects, boundaries, units, instruments, observers, records, and transformations jointly form a measurement structure do spatial relations appear as numerical distances and coordinate expressions. “Appear” here concerns representational holding; it does not deny that physical spatial relations may obtain before measurement.
 
 The following must therefore be taken back:
 
@@ -559,9 +566,9 @@ The question for the next stage is therefore:
 
 This leads into the third study:
 
-> **How Time Becomes Measurable — From Repeated Change to Public Clocks**
+> **How Time Is Organized and Measured — From Order and Traces to Public Clocks**
 
 —
 
 Zhou Peng & Codex
-July 13, 2026
+July 14, 2026

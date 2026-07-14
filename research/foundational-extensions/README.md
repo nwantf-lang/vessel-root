@@ -1,42 +1,43 @@
 # 基础理论扩充研究 / Foundational Extensions
 
-这一路径收录从 `vessel-root` 核心文档继续展开的概念研究。
+这一路径包含一篇方法说明和五篇构造型研究。
 
-核心文档负责拆解：意识、存在、观察者与显现如何被语言和视角建立，又如何在最后被撤回。
+`vessel-root` 核心文档负责撤回被当作绝对起点的意识者、对象与存在位置；扩充研究考察：在不恢复这些绝对位置的情况下，局部对象、空间与时间测量、公共客观性和物理规律如何仍能工作。
 
-扩充研究负责让这些根本判断进入更具体、也更容易受到检验的结构：个体经验、空间测量、时间测量、公共仪器、坐标系统与物理客观性。
-
-它们不是新的基础教条，也不替代核心文档。每篇研究都必须：
-
-- 从前一篇留下的未决问题出发；
-- 给出可以逐步检查的概念推导；
-- 正面处理循环论证、唯我论与物理边界；
-- 不把经验结构直接冒充为具体物理定律；
-- 在结尾撤回新建立的绝对起点。
-
----
+因此，本系列是与根本文本的**兼容性研究**，不是从核心句生成物理学的演绎链。每篇都必须说明继承条件、新增条件、操作与挑战方式、所得结论和不能推出的结论。
 
 ## 研究路径
 
-| # | 中文 | English | 核心问题 |
-|---|------|---------|----------|
-| 01 | [`意识之前 · 意识维持与时空`](zh/01-意识之前·意识维持与时空.md) | [`Before Consciousness`](en/01-before-consciousness.md) | 意识、存在、空间与时间是否是同一次维持被分段描述后的不同面向？ |
-| 02 | [`空间何以可测量 · 从差异维持到不变关系`](zh/02-空间何以可测量·从差异维持到不变关系.md) | [`How Space Becomes Measurable`](en/02-how-space-becomes-measurable.md) | 空间差异如何进入相等、单位、距离、坐标与公共测量？ |
-| 03 | [`时间何以可测量 · 从重复变化到公共时钟`](zh/03-时间何以可测量·从重复变化到公共时钟.md) | [`How Time Becomes Measurable`](en/03-how-time-becomes-measurable.md) | 不可并列的时间间隔如何被判断相等，并形成公共时钟？ |
-| 04 | [`规律何以成立 · 从视角转换到物理客观性`](zh/04-规律何以成立·从视角转换到物理客观性.md) | [`How Laws Become Possible`](en/04-how-laws-become-possible.md) | 跨观察、跨仪器仍保持的关系如何被表达为物理规律？ |
+| # | 中文 | English | 核心任务 |
+|---|---|---|---|
+| 00 | [什么叫“成立”](zh/00-什么叫成立.md) | [What It Means to Hold](en/00-what-it-means-to-hold.md) | 区分构成、表达、物理约束与本体主张 |
+| 01 | [对象何以成立](zh/01-对象何以成立.md) | [How Objects Become Possible](en/01-how-objects-become-possible.md) | 区分、边界、再识别、主体归因与世界归因 |
+| 02 | [空间何以组织与测量](zh/02-空间何以组织与测量.md) | [How Space Is Organized and Measured](en/02-how-space-is-organized-and-measured.md) | 从空间组织进入等长、单位、距离与坐标 |
+| 03 | [时间何以组织与测量](zh/03-时间何以组织与测量.md) | [How Time Is Organized and Measured](en/03-how-time-is-organized-and-measured.md) | 从顺序和留痕进入周期、计数、信号与同步 |
+| 04 | [公共客观性何以成立](zh/04-公共客观性何以成立.md) | [How Public Objectivity Becomes Possible](en/04-how-public-objectivity-becomes-possible.md) | 仪器、校准、转换闭合、独立路径与失败风险 |
+| 05 | [规律何以成立](zh/05-规律何以成立.md) | [How Laws Become Possible](en/05-how-laws-become-possible.md) | 从公共测量进入不变量、方程、预测与反事实 |
 
-01–04 构成当前已完成的第一阶段。
+## 统一审查模板
+
+每篇回答六个问题：
+
+1. 本篇解释什么？
+2. 前篇已经提供什么？
+3. 本篇新增什么条件？
+4. 新条件如何被操作、复制、比较和挑战？
+5. 能够推出什么？
+6. 不能推出什么？
+
+共同语言和研究边界见第 00 篇。
 
 ---
 
 ## Series Purpose
 
-This path contains conceptual studies extending the core documents of `vessel-root`.
+This path contains one methodological note and five constructive studies.
 
-The core documents perform the foundational dismantling: how consciousness, existence, observer, and manifestation are established through language and perspective, and how those positions are ultimately taken back.
+The root documents of `vessel-root` withdraw subjects, objects, and existence when treated as absolute beginnings. These extensions ask how local objects, spatial and temporal measurement, public objectivity, and physical laws can still work without restoring those absolutes.
 
-The extension studies bring those root claims into more concrete and testable structures: individual experience, spatial measurement, temporal measurement, public instruments, coordinate systems, and physical objectivity.
+The series is therefore a **compatibility study**, not a deduction of physics from the root sentence. Each study states what it inherits, what conditions it adds, how those conditions can be operated and challenged, what follows, and what does not.
 
-They are not a new foundational doctrine and do not replace the core documents. Each study must begin from an unresolved question left by the previous one, provide an inspectable conceptual derivation, confront its circularities and boundaries, and avoid presenting experiential structure as a concrete physical law.
-
-Chinese editions are under [`zh/`](zh/). English editions are under [`en/`](en/).
+Chinese editions are under [`zh/`](zh/). English editions are under [`en/`](en/). The shared method and boundary are set out in Study 00.
