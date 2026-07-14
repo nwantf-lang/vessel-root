@@ -1,18 +1,20 @@
-# How Time Becomes Measurable — From Repeated Change to Public Clocks
+# How Time Is Organized and Measured — From Order and Traces to Public Clocks
 
 > Zhou Peng & Codex
-> July 13, 2026
-> A conceptual study of how time moves from events, repetition, and traces into clock readings, remote synchronization, and public time
+> July 14, 2026
+> A conceptual study of how events enter order, duration, change, cycles, counting, and public time
 
 ---
 
 ## Abstract
 
-Spatial units can coexist side by side: one centimeter can be placed beside another, forming distance through coincidence, substitution, and repetition. Temporal units cannot coexist. The first oscillation has already disappeared when the second occurs. Two temporal intervals cannot be moved into the same moment and made to coincide directly.
+The preceding study separated spatial organization from metric structure. Time requires the same discipline: event order, duration, change, and traces constitute temporal organization; cycle-equivalence, cumulative counting, signals, and synchronization protocols further constitute temporal measurement.
+
+Spatial units can be compared side by side. Temporal units cannot: the first oscillation ends before the second occurs. Two temporal intervals cannot be transported to one event-position and directly superimposed.
 
 Temporal measurement therefore faces a problem different from spatial measurement: **why can two intervals that cannot coexist be judged equal?**
 
-This study proposes that temporal measurement does not use something unchanging to read an independently flowing time. It uses one change, selected as a standard, to compare another change. Spatial units acquire equality through juxtaposition; temporal units acquire equality through recurrence. A repeating process provides the unit, an accumulating trace preserves the count, and the two together form a clock.
+This study proposes: **when different events are ordered and form duration through change, traces, and reidentification, experience unfolds temporally.** Measurement then uses one selected change to compare another. Spatial units acquire equality through juxtaposition; temporal units through recurrence. Cycles provide scale; accumulation provides elapsed count.
 
 Recurrence does not mean that the entire world returns to its previous state. A cycle arises when a selected set of relevant states again satisfies the same criterion. A temporal unit is not a preserved piece of time, but a class of state-transition relations that can be repeatedly realized and substituted for one another within specified precision.
 
@@ -22,7 +24,13 @@ This study does not derive the concrete equations of relativity from conceptual 
 
 ---
 
-## I. Where Temporal and Spatial Measurement Diverge
+## I. Temporal Organization and Temporal Measurement
+
+Order among events, duration of processes, and changing states constitute temporal organization, but do not yet give a number of seconds. Measurement additionally classifies cycles as substitutable, retains counts in traces, and connects local records at different places.
+
+We must therefore distinguish temporal organization—events, order, duration, change, traces, and boundaries of irreversibility—from temporal measurement—cycles, cycle-equivalence, counting, local clocks, signals, synchronization, and transformation.
+
+The following comparison explains why the second layer differs from spatial measurement.
 
 In spatial measurement, one unit can be placed beside another.
 
@@ -50,7 +58,7 @@ Temporal measurement must handle how a change that has disappeared can enter int
 
 ---
 
-## II. A Temporal Interval Is Not an Independent Thing
+## II. Events, Order, and Interval
 
 Measuring a duration first requires two boundary events.
 
@@ -68,11 +76,11 @@ Sending a signal and receiving its echo can be connected as one round trip.
 
 Therefore:
 
-> **A temporal interval is two events maintained as the starting point and endpoint of the same process.**
+> **The experience and expression of a temporal interval require two events to be connected as the starting point and endpoint of the same process.**
 
 An interval is not a substance floating between events.
 
-It is a relation of continuity established between them.
+It is a relation of continuity established between them. If two events are not assigned to one process, we have not yet obtained a measurable “interval between.” This is constitutive and representational; it does not deny an unmeasured physical temporal relation.
 
 If two events are not attributed to the same process, no automatically existing "time in between" waits to be measured.
 
@@ -221,7 +229,7 @@ Without accumulation, the cycle has only phase and no indication of how much has
 
 ---
 
-## VIII. Traces Establish Before and After
+## VIII. Traces Preserve Before and After
 
 The first tick has disappeared.
 
@@ -239,7 +247,9 @@ It comes from the present structure already containing a trace of the first.
 
 Thus:
 
-> **The past is not an event that remains present, but a difference preserved within the current structure.**
+> **A trace lets an occurred difference be preserved, recognized, and counted in a currently accessible structure.**
+
+This does not mean that traces create physical precedence. To say a trace was left by an earlier event already uses causal and temporal order. The claim here concerns how precedence becomes presently judgeable.
 
 Periodic repetition alone need not provide direction.
 
@@ -380,11 +390,11 @@ A receives the echo at reading `t₃`.
 
 A can directly record the total round-trip interval `t₃ - t₁`.
 
-If a synchronization rule assuming symmetric outbound and return propagation conditions is adopted, the event of B receiving the signal is assigned:
+If an Einstein–Poincaré synchronization convention is adopted within a particular physical framework, treating outbound and return conditions as symmetric, the event of B receiving the signal is assigned:
 
 > `t₂ = (t₁ + t₃) / 2`
 
-This rule divides the round-trip interval in half and establishes a remote clock relation between A and B.
+This rule divides the round-trip interval in half and establishes a remote clock relation between A and B. It is not uniquely derived from recurrence, traces, and counting. One round trip directly supplies a round-trip interval; allocating one-way times also requires a synchronization convention and a physical theory.
 
 The key point is:
 
@@ -605,11 +615,11 @@ It can be compressed further:
 
 ---
 
-## XXI. How Time Becomes Measurable
+## XXI. How Time Is Organized and Measured
 
 Now return to the question in the title.
 
-Why can time be measured?
+How is time organized, and why can it be measured?
 
 Not because a clock touches an independently flowing temporal substance.
 
@@ -617,7 +627,7 @@ Not because two vanished intervals can be juxtaposed again.
 
 Nor because one number exists throughout the universe that every clock must read.
 
-Time can be measured because:
+Time can be experienced as a structure because events enter order and change forms duration through traces and reidentification. It can be measured because:
 
 > **Events can form intervals, state transitions can recur, recurrences can be grouped into equivalent units, counts can leave accumulating traces, and local records can form public relations through signals, synchronization, and transformation.**
 
@@ -625,7 +635,7 @@ Yet saying "time can be measured" can again establish time as a completed object
 
 Strictly speaking, time does not first flow and then get read by clocks.
 
-Only when events, cycles, counts, records, signals, and synchronization jointly form a measurement structure does change appear as clock readings and temporal coordinates.
+Only when events, cycles, counts, records, signals, and synchronization jointly form a measurement structure does change enter public expression as clock readings and temporal coordinates. This does not claim that measurement creates physical time.
 
 The following must therefore be taken back:
 
@@ -647,13 +657,13 @@ The study of space investigated spatial relations preserved under transformation
 
 The study of time investigated stable relations among local clocks, remote synchronization, and temporal coordinates.
 
-The next question is:
+The next stage does not yet move directly to law. It gathers a problem dispersed through the earlier studies:
 
-> **When objects, positions, clocks, observers, and coordinates all change, which relations remain, which change according to stable rules, and how are those cross-measurement relations compressed into physical laws?**
+> **How can subjects who do not share identical experience form public relations through instruments, records, calibration, and transformation—relations owned by no single perspective? How does coherence become exposed to closure tests, independent convergence, and extrapolative failure?**
 
 This leads into the fourth study:
 
-> **How Laws Become Possible — From Perspective Transformation to Physical Objectivity**
+> **How Public Objectivity Becomes Possible — From Local Experience to Independent Testing**
 
 ---
 
@@ -669,4 +679,4 @@ These sources delimit the current metrological definition, public time scales, a
 —
 
 Zhou Peng & Codex
-July 13, 2026
+July 14, 2026

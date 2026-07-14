@@ -30,10 +30,12 @@
 
 | # | 中文 | English | 研究推进 |
 |---|------|---------|----------|
-| 01 | [`意识之前 · 意识维持与时空`](research/foundational-extensions/zh/01-意识之前·意识维持与时空.md) | [`Before Consciousness`](research/foundational-extensions/en/01-before-consciousness.md) | 意识、存在、空间与时间如何在维持中同时成立 |
-| 02 | [`空间何以可测量 · 从差异维持到不变关系`](research/foundational-extensions/zh/02-空间何以可测量·从差异维持到不变关系.md) | [`How Space Becomes Measurable`](research/foundational-extensions/en/02-how-space-becomes-measurable.md) | 从差异进入相等、单位、距离、坐标与公共测量 |
-| 03 | [`时间何以可测量 · 从重复变化到公共时钟`](research/foundational-extensions/zh/03-时间何以可测量·从重复变化到公共时钟.md) | [`How Time Becomes Measurable`](research/foundational-extensions/en/03-how-time-becomes-measurable.md) | 从事件与重复进入时钟读数、远程同步与公共时间 |
-| 04 | [`规律何以成立 · 从视角转换到物理客观性`](research/foundational-extensions/zh/04-规律何以成立·从视角转换到物理客观性.md) | [`How Laws Become Possible`](research/foundational-extensions/en/04-how-laws-become-possible.md) | 从变量、转换与不变量进入预测、检验和物理客观性 |
+| 00 | [`什么叫“成立”`](research/foundational-extensions/zh/00-什么叫成立.md) | [`What It Means to Hold`](research/foundational-extensions/en/00-what-it-means-to-hold.md) | 区分构成、表达、物理约束与本体主张 |
+| 01 | [`对象何以成立`](research/foundational-extensions/zh/01-对象何以成立.md) | [`How Objects Become Possible`](research/foundational-extensions/en/01-how-objects-become-possible.md) | 从区分和再识别进入主体与世界归因 |
+| 02 | [`空间何以组织与测量`](research/foundational-extensions/zh/02-空间何以组织与测量.md) | [`How Space Is Organized and Measured`](research/foundational-extensions/en/02-how-space-is-organized-and-measured.md) | 从空间组织进入等长、单位、距离与坐标 |
+| 03 | [`时间何以组织与测量`](research/foundational-extensions/zh/03-时间何以组织与测量.md) | [`How Time Is Organized and Measured`](research/foundational-extensions/en/03-how-time-is-organized-and-measured.md) | 从顺序和留痕进入周期、计数与同步 |
+| 04 | [`公共客观性何以成立`](research/foundational-extensions/zh/04-公共客观性何以成立.md) | [`How Public Objectivity Becomes Possible`](research/foundational-extensions/en/04-how-public-objectivity-becomes-possible.md) | 从局部测量进入校准、闭合、独立检验与失败风险 |
+| 05 | [`规律何以成立`](research/foundational-extensions/zh/05-规律何以成立.md) | [`How Laws Become Possible`](research/foundational-extensions/en/05-how-laws-become-possible.md) | 从公共测量进入不变量、方程、预测与反事实 |
 
 系列说明与后续路线见 [`research/foundational-extensions/`](research/foundational-extensions/README.md)。
 
