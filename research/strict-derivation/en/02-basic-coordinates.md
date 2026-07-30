@@ -1,8 +1,8 @@
-# The Basic Coordinates of All Things — A General System for Describing How Things Hold
+# Basic Coordinates
 
 > Zhou Peng & Codex
 > 2026-07-30
-> From difference, boundary, and trace to systems, publicity, law, and an open world
+> A general system for describing how things hold
 
 ---
 
