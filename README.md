@@ -41,9 +41,12 @@
 
 ## 严格推导研究 / Strict Derivation
 
-[`从第一抹意识到世界`](research/strict-derivation/zh/01-从第一抹意识到世界.md) / [`From First Awareness to World`](research/strict-derivation/en/01-from-first-awareness-to-world.md)
+| # | 中文 | English | 内容 |
+|---|---|---|---|
+| 01 | [`从第一抹意识到世界`](research/strict-derivation/zh/01-从第一抹意识到世界.md) | [`From First Awareness to World`](research/strict-derivation/en/01-from-first-awareness-to-world.md) | 反模型、条件推导与证明账本 |
+| 02 | [`万事万物的基本坐标`](research/strict-derivation/zh/02-万事万物的基本坐标.md) | [`The Basic Coordinates of All Things`](research/strict-derivation/en/02-basic-coordinates-of-all-things.md) | 描述任何事物如何成立的十六维元坐标系统 |
 
-这项研究首先用反模型证明：最低意识不能单独决定具体空间、时间和物理规律；随后以 `P0 + A1…A10 ⊢ Wc` 的形式，公开每层新增条件、证明类型、验证方法、失败条件与结论边界，严格构成世界作为公共、可测量且持续开放于修正的关系整体。
+这项研究首先用反模型证明：最低意识不能单独决定具体空间、时间和物理规律；随后以 `P0 + A1…A10 ⊢ Wc` 的形式严格构成开放世界。第二篇进一步把差异、边界、留痕、再识别、归因、时空、度量、系统动力、公共性、规律与开放性组织为描述万事万物成立方式的通用坐标。
 
 研究说明见 [`research/strict-derivation/`](research/strict-derivation/README.md)。
 
