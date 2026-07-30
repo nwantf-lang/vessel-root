@@ -26,7 +26,7 @@
 
 ## 基础理论扩充研究 / Foundational Extensions
 
-核心文档之后的连续研究路径：从意识与存在的共生结构，逐步进入空间测量、时间测量与物理客观性。
+核心文档之后的构造研究路径：在不恢复绝对主体与绝对对象的条件下，逐步研究对象、空间、时间、公共测量与物理规律如何成立。
 
 | # | 中文 | English | 研究推进 |
 |---|------|---------|----------|
@@ -39,6 +39,14 @@
 
 系列说明与后续路线见 [`research/foundational-extensions/`](research/foundational-extensions/README.md)。
 
+## 严格推导研究 / Strict Derivation
+
+[`从第一抹意识到世界`](research/strict-derivation/zh/01-从第一抹意识到世界.md) / [`From First Awareness to World`](research/strict-derivation/en/01-from-first-awareness-to-world.md)
+
+这项研究首先用反模型证明：最低意识不能单独决定具体空间、时间和物理规律；随后以 `P0 + A1…A10 ⊢ Wc` 的形式，公开每层新增条件、证明类型、验证方法、失败条件与结论边界，严格构成世界作为公共、可测量且持续开放于修正的关系整体。
+
+研究说明见 [`research/strict-derivation/`](research/strict-derivation/README.md)。
+
 ## Where to Start
 
 Start with `根本·一句话的全部.md` (Chinese) or `en/the-root.md` (English).
@@ -47,7 +55,7 @@ For the full process, read `世界根本·一份指向.md` or `en/world-root-a-p
 
 The other two are supplementary perspectives.
 
-After the core documents, continue with the numbered studies under `research/foundational-extensions/`.
+After the core documents, continue with the numbered studies under `research/foundational-extensions/`. The strict proof ledger is under `research/strict-derivation/`.
 
 ---
 
