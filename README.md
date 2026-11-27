@@ -45,6 +45,15 @@ A continuous research path after the root documents: from the co-arising of cons
 
 系列说明与统一审查模板见 [`research/foundational-extensions/`](research/foundational-extensions/README.md)。
 
+## 研究草稿 · 严格推导 / Drafts · Strict Derivation
+
+| # | 中文 | English | 内容 |
+|---|---|---|---|
+| 01 | [从第一抹意识到世界](research/strict-derivation/zh/01-从第一抹意识到世界.md) | [From First Awareness to World](research/strict-derivation/en/01-from-first-awareness-to-world.md) | 反模型、条件推导与证明账本 |
+| 02 | [基本坐标](research/strict-derivation/zh/02-基本坐标.md) | [Basic Coordinates](research/strict-derivation/en/02-basic-coordinates.md) | 描述任何事物如何成立的十六维元坐标系统 |
+
+研究说明见 [`research/strict-derivation/`](research/strict-derivation/README.md)。
+
 ## 从哪里开始 / Where to Start
 
 1. 先读正式报告《[世界从无到有 · 起源报告](世界从无到有·起源报告.md)》/ Start with the formal report, [The World from Nothing](en/the-origin-report.md).

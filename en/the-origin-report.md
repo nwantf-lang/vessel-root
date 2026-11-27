@@ -366,7 +366,7 @@ The earlier documents are research drafts for this report. Their content sits he
 | Extension studies 02, 03 | Stages 8, 9: space, time |
 | Extension study 04 | Stage 10: the public |
 | Extension study 05 | Stage 11: law |
-| Strict derivation (branch `agent/strict-world-derivation`) | Sections IV, VI and Stage 12: formal start, underdetermination, world atlas |
+| Strict derivation 01, 02 (`research/strict-derivation/`) | Sections IV, VI and Stage 12: formal start, underdetermination, world atlas |
 
 The extension studies once described themselves as "compatibility studies with the root texts." This report instead places them as the unfolding of the third part of the origin route. The discipline they kept, never disguising added conditions as necessary consequences of the root sentence and letting every stage risk failure, is carried in this report by the force of collision.
 
