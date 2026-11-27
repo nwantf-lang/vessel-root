@@ -18,6 +18,12 @@
 
 The core claim, the two layers, the mechanism of nothing becoming something, the thirteen-stage origin route, and the basic phenomena. The documents below are its research drafts; where they disagree, the report takes precedence.
 
+## 故事 / Story
+
+| 中文 | 内容 | 日期 |
+|------|------|------|
+| [折痕](折痕.md) | 用小说的方式讲起源路线：初、迟、石头、圈、绳与水滴、潮与地图 | 2026-11-27 |
+
 ## 研究草稿 · 核心文档 / Drafts · Root Documents
 
 | # | 中文 | English | 内容 / Content | 日期 / Date |
