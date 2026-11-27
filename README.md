@@ -23,6 +23,7 @@ The core claim, the two layers, the mechanism of nothing becoming something, the
 | 中文 | English | 内容 / Content | 日期 / Date |
 |------|---------|----------------|-------------|
 | [折痕](折痕.md) | [The Crease](en/the-crease.md) | 用小说的方式讲起源路线 / The origin route told as a story | 2026-11-27 |
+| [折痕 · 分镜剧本](剧本/折痕·分镜剧本.md) | — | 36 个镜头的分镜剧本，可逐个场景交给 Seedance 生成视频 / A 36-shot storyboard for Seedance | 2026-11-27 |
 
 ## 研究草稿 · 核心文档 / Drafts · Root Documents
 
