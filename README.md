@@ -20,9 +20,9 @@ The core claim, the two layers, the mechanism of nothing becoming something, the
 
 ## 故事 / Story
 
-| 中文 | 内容 | 日期 |
-|------|------|------|
-| [折痕](折痕.md) | 用小说的方式讲起源路线：初、迟、石头、圈、绳与水滴、潮与地图 | 2026-11-27 |
+| 中文 | English | 内容 / Content | 日期 / Date |
+|------|---------|----------------|-------------|
+| [折痕](折痕.md) | [The Crease](en/the-crease.md) | 用小说的方式讲起源路线 / The origin route told as a story | 2026-11-27 |
 
 ## 研究草稿 · 核心文档 / Drafts · Root Documents
 
