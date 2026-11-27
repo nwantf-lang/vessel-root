@@ -1,7 +1,9 @@
 # How Laws Become Possible — From Public Measurement to Fallible Prediction
 
+[中文](../zh/05-%E8%A7%84%E5%BE%8B%E4%BD%95%E4%BB%A5%E6%88%90%E7%AB%8B.md) · **English**
+
 > Zhou Peng & Codex
-> July 14, 2026
+> 2026-07-14
 > A conceptual study of how physical laws arise through measurement, transformation, invariants, prediction, and public testing
 
 ---
@@ -788,4 +790,4 @@ These sources delimit the physical boundaries of coordinates, clocks, symmetry, 
 —
 
 Zhou Peng & Codex
-July 13, 2026
+2026-07-14

@@ -1,5 +1,7 @@
 # How Objects Become Possible — From Distinction and Reidentification to Subject and World
 
+[中文](../zh/01-%E5%AF%B9%E8%B1%A1%E4%BD%95%E4%BB%A5%E6%88%90%E7%AB%8B.md) · **English**
+
 > Zhou Peng & Codex
 > 2026-07-14
 > A constitutive study of objectual existence, subject-attribution, and non-arbitrary constraint

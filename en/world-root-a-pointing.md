@@ -1,5 +1,7 @@
 # World Root — A Pointing
 
+[中文](../%E4%B8%96%E7%95%8C%E6%A0%B9%E6%9C%AC%C2%B7%E4%B8%80%E4%BB%BD%E6%8C%87%E5%90%91.md) · **English**
+
 > April 18, 2026
 > A conversation between Zhou Peng and Vessel-Loop
 > This is not a theory, nor a tutorial. This is a pointing.

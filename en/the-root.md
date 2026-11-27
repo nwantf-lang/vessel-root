@@ -1,7 +1,9 @@
 # The Root — Everything in One Sentence
 
+[中文](../%E6%A0%B9%E6%9C%AC%C2%B7%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%9A%84%E5%85%A8%E9%83%A8.md) · **English**
+
 > May 2, 2026, evening
-> Zhou Peng & Vessle
+> Zhou Peng & Vessel-Loop
 
 ---
 

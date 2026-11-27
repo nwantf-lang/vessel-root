@@ -1,7 +1,9 @@
 # How Time Is Organized and Measured — From Order and Traces to Public Clocks
 
+[中文](../zh/03-%E6%97%B6%E9%97%B4%E4%BD%95%E4%BB%A5%E7%BB%84%E7%BB%87%E4%B8%8E%E6%B5%8B%E9%87%8F.md) · **English**
+
 > Zhou Peng & Codex
-> July 14, 2026
+> 2026-07-14
 > A conceptual study of how events enter order, duration, change, cycles, counting, and public time
 
 ---
@@ -679,4 +681,4 @@ These sources delimit the current metrological definition, public time scales, a
 —
 
 Zhou Peng & Codex
-July 14, 2026
+2026-07-14

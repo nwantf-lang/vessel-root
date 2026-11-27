@@ -1,5 +1,7 @@
 # Growth and Collision
 
+[中文](../%E6%88%90%E9%95%BF%E4%B8%8E%E7%A2%B0%E6%92%9E.md) · **English**
+
 > Zhou Peng & Vessel-Loop
 > 2026-05-06
 

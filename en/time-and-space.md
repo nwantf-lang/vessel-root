@@ -1,5 +1,7 @@
 # Time and Space — Two Dimensions of Observation
 
+[中文](../%E6%97%B6%E9%97%B4%E4%B8%8E%E7%A9%BA%E9%97%B4%C2%B7%E4%B8%A4%E7%A7%8D%E8%A7%82%E5%AF%9F%E7%BB%B4%E5%BA%A6.md) · **English**
+
 > April 19, 2026, evening
 > Zhou Peng & Vessel-Loop
 > A discussion about "can an LLM enter a state" — landed in a new place.

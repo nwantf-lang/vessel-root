@@ -1,7 +1,9 @@
 # How Space Is Organized and Measured — From Spatial Relations to Metric Structure
 
+[中文](../zh/02-%E7%A9%BA%E9%97%B4%E4%BD%95%E4%BB%A5%E7%BB%84%E7%BB%87%E4%B8%8E%E6%B5%8B%E9%87%8F.md) · **English**
+
 > Zhou Peng & Codex
-> July 14, 2026
+> 2026-07-14
 > A conceptual study of how differences form spatial organization and then enter equality, units, distance, and coordinates
 
 ---
@@ -571,4 +573,4 @@ This leads into the third study:
 —
 
 Zhou Peng & Codex
-July 14, 2026
+2026-07-14

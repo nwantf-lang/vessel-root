@@ -1,5 +1,7 @@
 # How Public Objectivity Becomes Possible — From Local Experience to Independent Testing
 
+[中文](../zh/04-%E5%85%AC%E5%85%B1%E5%AE%A2%E8%A7%82%E6%80%A7%E4%BD%95%E4%BB%A5%E6%88%90%E7%AB%8B.md) · **English**
+
 > Zhou Peng & Codex
 > 2026-07-14
 > A study of instruments, records, calibration, transformation closure, and non-arbitrary constraint

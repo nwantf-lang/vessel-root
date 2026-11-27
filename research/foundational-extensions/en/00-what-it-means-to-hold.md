@@ -1,5 +1,7 @@
 # What It Means to Hold — Method and Boundaries of the Extension Studies
 
+[中文](../zh/00-%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%90%E7%AB%8B.md) · **English**
+
 > Zhou Peng & Codex
 > 2026-07-14
 > A methodological note distinguishing constitution, expression, physical constraint, and ontology
